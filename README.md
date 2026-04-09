@@ -124,6 +124,7 @@ To ensure all infrastructure changes go through review, you’ll add a branch pr
 At this point, the `main` branch is protected and cannot be modified directly.
 
 ### Step 3: Create a Protected Deployment Environment
+### hidden change
 
 Next, you’ll create an environment that requires approval before deployments run.
 
