@@ -25,7 +25,7 @@ variable "tags" {
 
 variable "instance_type" {
   type    = string
-  default = "t2.micro"
+  default = "t3.micro"
 }
 
 variable "root_volume_size" {
